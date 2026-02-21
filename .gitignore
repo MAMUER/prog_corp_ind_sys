@@ -1,0 +1,38 @@
+# Environment variables
+.env
+.env.example
+
+# Binaries
+*.exe
+/bin/
+
+# Secrets
+passwords.txt
+
+# Database
+*.sql
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+/logs/
+
+# Office temporary files
+~$*
+*.tmp
+
+# Word documents temporary files
+~$*.docx
+~$*.doc
+~$*.xlsx
+
+.bashrc
+
+.vs/
