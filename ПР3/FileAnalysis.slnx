@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FileAnalysisClient/FileAnalysisClient.csproj" />
+  <Project Path="FileAnalysisServer/FileAnalysisServer.csproj" />
+</Solution>

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TextFileProcessor")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("FileAnalysisServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89eec94721ecedeb68de9c57012976f821aaa26b")]
-[assembly: System.Reflection.AssemblyProductAttribute("TextFileProcessor")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TextFileProcessor")]
+[assembly: System.Reflection.AssemblyProductAttribute("FileAnalysisServer")]
+[assembly: System.Reflection.AssemblyTitleAttribute("FileAnalysisServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
