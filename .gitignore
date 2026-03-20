@@ -28,7 +28,8 @@ Thumbs.db
 ~$*.docx
 ~$*.doc
 ~$*.xlsx
-
+*.drawio
+*.png
 .bashrc
 
 .vs/
@@ -36,3 +37,5 @@ Thumbs.db
 *.sln
 
 AnalysisResults/
+
+*.bkp
